@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website!
 
-I’m **Leshanie**, an Information Technology undergraduate at **SLIIT** with a passion for **Full-Stack Development, Frontend Engineering, and UI/UX Design**.
+I’m **Leshanie**, a developer with a passion for **Full-Stack Development, Frontend Engineering, and Business Analysis**.
 
 I enjoy building modern, responsive, and user-friendly web applications while combining clean design with functional development. My experience includes working with the **MERN stack**, designing interfaces in **Figma**, integrating **REST APIs**, and developing full-stack applications.
 
